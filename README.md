@@ -174,3 +174,13 @@ Zakaria B
 Python Developer
 Automation • Data Processing • Engineering Tools
 
+## Example
+
+Example CAD drawing processed by the system:
+
+Input:
+Engineering drawing (PDF + DXF)
+
+Output:
+Ballooned drawing and inspection sheet
+
